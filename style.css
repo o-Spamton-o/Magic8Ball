@@ -1,0 +1,26 @@
+html {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.7);
+  margin: 10px auto;
+  align-content: center;
+  width: 600px;
+  padding: 5px 75px;
+  border-radius: 25px;
+  font-family: sans-serif;
+}
+span {
+  color: green;
+}
+#question {
+  color: green;
+  width: 600px;
+  height: 20px;
+  font-size: 18px;
+}
+img:hover {
+  cursor: pointer;
+}
